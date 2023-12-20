@@ -1,0 +1,15 @@
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+F:\BIG DZ ARCHIEVE\archieve dz 3Sem\PCPL\dz\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
